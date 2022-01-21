@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. My cat Ray
+2. Cats in general
+3. Coffee
+4. Comic books
