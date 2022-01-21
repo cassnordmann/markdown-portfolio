@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Expereinced in programming in **Matlab**
+- Experience as a teaching/learning assistant in **programming**, **engineering design**, *and* **transport phenomena** classes
+- Certified in **Solidworks**
