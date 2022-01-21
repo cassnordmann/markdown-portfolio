@@ -1,0 +1,3 @@
+- Expereinced in programming in **Matlab**
+- Experience as a teaching/learning assistant in **programming**, **engineering design**, *and* **transport phenomena** classes
+- Certified in **Solidworks**
